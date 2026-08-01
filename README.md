@@ -109,12 +109,11 @@ Final-year B.Tech Information Technology student passionate about Software Engin
 
 ---
 
-# Contribution Snake
+## 🐍 Contribution Snake
 
-```text
-Add GitHub Action to generate the snake:
-Platane/snk
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parvgothwal03/parvgothwal03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
