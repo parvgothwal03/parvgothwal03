@@ -136,7 +136,7 @@ OpenTo:
 # Connect
 
 - Email: parvgothwal0310@gmail.com
-- LinkedIn: https://linkedin.com/in/parv-gothwal
+- LinkedIn: linkedin.com/in/parv-gothwal-a5496540b
 - GitHub: https://github.com/parvgothwal03
 
 ---
